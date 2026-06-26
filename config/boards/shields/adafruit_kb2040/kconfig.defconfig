@@ -1,0 +1,6 @@
+if adafruit_kb2040
+
+config ZMK_KEYBOARD_NAME
+    default "3x3macro"
+    
+endif
